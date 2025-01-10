@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Carlos Polanco  
-
 ## Welcome to The AI Developer  
 
 Learn to develop your own AI applications using models like **ChatGPT, Google Gemini, Claude, Meta, and more**.  
