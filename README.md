@@ -1,4 +1,5 @@
-
+[![Watch the video](https://img.youtube.com/vi/L68y_GRg_6o/0.jpg)](https://youtu.be/L68y_GRg_6o)  
+**🎥 Watch the Video Here: [How to Build AI Applications](https://youtu.be/L68y_GRg_6o)**  
 # 🚀 Learn to Build AI Applications!
 
 Learn to develop your own **AI applications** using SDKs from ChatGPT, Google, Facebook, and more! Explore programming languages like **JavaScript**, **TypeScript**, and **Python**, and frameworks like **Next.js** to design your future AI SaaS applications. 💻✨
