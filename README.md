@@ -56,24 +56,6 @@ Create prompt flows without losing AI conversation context—ideal for automatio
 - **LinkedIn**: [The AI Developer](https://www.linkedin.com/company/theaidevelopercp/)
 - **Github**: [The AI Developer](https://github.com/cpTheAideveloper)
 
---About this channel
-In this channel, you'll master creating AI applications  using SDKs from ChatGPT, Google, Facebook, and more! Explore programming languages like JavaScript, TypeScript, and Python, and frameworks like Next.js to design your future AI SaaS applications. 💻
----
-
-## 📚 Resources Mentioned in the Video  
-- **[Free Guides](https://www.the-aideveloper.com/guides)**  
-- **[Projects for Sale](https://www.the-aideveloper.com/projects)**  
-- **[My Website](https://www.the-aideveloper.com/)**  
-
----
-
-## 🌐 Connect with Me:  
-- **YouTube**: [The AI Developer](https://www.youtube.com/@theaideveloper)  
-- **Instagram**: [@cptheaideveloper](https://www.instagram.com/cptheaideveloper/)  
-- **Twitter**: [@cpaideveloper](https://x.com/cpaideveloper)  
-- **TikTok**: [@codingnutella](https://www.tiktok.com/@codingnutella)  
-- **LinkedIn**: [The AI Developer](https://www.linkedin.com/company/theaidevelopercp/)  
-
 --- 
 
 🎥 **Subscribe to learn and create your own AI-powered projects!** 🌟
