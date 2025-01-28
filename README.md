@@ -6,25 +6,58 @@ Learn to develop your own **AI applications** using SDKs from ChatGPT, Google, F
 
 ---
 
-## 🌟 Projects Available for You  
-💡 **[ChatGPT NodeApi](https://codingnutella.lemonsqueezy.com/buy/396863e4-33ae-4258-8aac-6e1112924f60)** - **$9.95**  
-A Node.js backend integrated with OpenAI's API, enabling you to add AI-driven features for web, mobile, automation, and more.
+## 🌟 Projects Available for You
 
-💡 **[NextJS ChatGPT Clone](https://theaideveloper.lemonsqueezy.com/buy/8a031429-c2b0-492b-8be3-d79091bf3d09)** - **$14.95**  
-A ChatGPT-style interface for easy AI interaction with text, images, audio, and document handling.
+---
 
-💡 **[Google Gemini Clone](https://codingnutella.lemonsqueezy.com/buy/511237c9-1ce1-4c74-b39d-3393bd66c29b)** - **$14.95**  
-Accelerate AI chatbot development with this Next.js boilerplate powered by Google Gemini for text, audio, image, and document processing.
+### 💡 [ChatGPT NodeApi](https://checkout.the-aideveloper.com/b/eVa3cV4j4eLE1a028r) - **$9.95**
+A Node.js backend integrated with OpenAI's API for adding AI-driven features. **Key Features**: AI Integration, Automation.
 
-💡 **[Voice AI](https://codingnutella.lemonsqueezy.com/buy/cc040048-7d0c-4387-90fe-55b450c92800)** - **$9.99**  
-Simplify audio interactions with transcription, communication, and enhanced audio features.
+---
 
-💡 **[DocumentAI](https://codingnutella.lemonsqueezy.com/buy/cc040048-7d0c-4387-90fe-55b450c92800)** - **$24.99**  
-Analyze multiple files and handle tasks simultaneously, boosting efficiency in document processing.
+### 💡 [NextJS ChatGPT Clone](https://checkout.the-aideveloper.com/b/5kA00JeXIcDw5qg28m) - **$19.99**
+A ChatGPT-style interface for seamless AI interactions with text, images, audio, and documents. **Key Features**: Chat Interface, Versatile Processing.
 
-💡 **[FlowAI](https://theaideveloper.lemonsqueezy.com/buy/7e50452d-1a8d-478c-93e4-2b8402d41678)** - **$29.99**  
-Build prompt flows without losing the context of AI conversations—perfect for repeatable operations or automation.
+---
 
+### 💡 [Google Gemini Clone](https://checkout.the-aideveloper.com/b/14kaFn9Do32W3i8bIZ) - **$14.95**
+A Next.js boilerplate powered by Google Gemini for building versatile AI chatbots. **Key Features**: Gemini Power, Chatbots.
+
+---
+
+### 💡 [Voice AI](https://checkout.the-aideveloper.com/b/28o28R9Do1YS7yo28q) - **$9.99**
+Simplify audio interactions with transcription and enhanced audio features. **Key Features**: Audio Simplification, Transcription.
+
+---
+
+### 💡 [DocumentAI](https://checkout.the-aideveloper.com/b/28o5l36rc0UO8CsdR5) - **$24.99**
+Efficiently analyze multiple files and handle tasks simultaneously for document processing. **Key Features**: File Analysis, Efficiency.
+
+---
+
+### 💡 [FlowAI](https://checkout.the-aideveloper.com/b/28o00J4j45b46ukcN2) - **$29.99**
+Create prompt flows without losing AI conversation context—ideal for automation and repeatable operations. **Key Features**: Prompt Flows, Automation.
+
+
+---
+
+## 📚 Resources Mentioned in the Video  
+- **[Free Guides](https://www.the-aideveloper.com/guides)**  
+- **[Projects for Sale](https://www.the-aideveloper.com/projects)**  
+- **[My Website](https://www.the-aideveloper.com/)**  
+
+---
+
+## 🌐 Connect with Me:  
+- **YouTube**: [The AI Developer](https://www.youtube.com/@theaideveloper)  
+- **Instagram**: [@cptheaideveloper](https://www.instagram.com/cptheaideveloper/)  
+- **Twitter**: [@cpaideveloper](https://x.com/cpaideveloper)  
+- **TikTok**: [@codingnutella](https://www.tiktok.com/@codingnutella)  
+- **LinkedIn**: [The AI Developer](https://www.linkedin.com/company/theaidevelopercp/)
+- **Github**: [The AI Developer](https://github.com/cpTheAideveloper)
+
+--About this channel
+In this channel, you'll master creating AI applications  using SDKs from ChatGPT, Google, Facebook, and more! Explore programming languages like JavaScript, TypeScript, and Python, and frameworks like Next.js to design your future AI SaaS applications. 💻
 ---
 
 ## 📚 Resources Mentioned in the Video  
