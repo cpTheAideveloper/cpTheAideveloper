@@ -6,31 +6,18 @@ Learn to develop your own **AI applications** using SDKs from ChatGPT, Google, F
 
 ---
 
-🌟 **Projects Available for You**
-
-💡 **ChatGPT NodeApi**  
-A Node.js backend with OpenAI's API for AI features.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/eVa3cV4j4eLE1a028r)
-
-💡 **NextJS ChatGPT Clone**  
-ChatGPT-style interface for AI interactions.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/5kA00JeXIcDw5qg28m)
-
-💡 **Google Gemini Clone**  
-Next.js boilerplate powered by Google Gemini.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/14kaFn9Do32W3i8bIZ)
-
-💡 **Voice AI**  
-Simplify audio interactions and transcription.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/28o28R9Do1YS7yo28q)
-
-💡 **DocumentAI**  
-Analyze files and boost document efficiency.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/28o5l36rc0UO8CsdR5)
-
-💡 **FlowAI**  
-Build prompt flows with AI context retention.  
-👉 [Get the Code](https://checkout.the-aideveloper.com/b/28o00J4j45b46ukcN2)
+OFF30 --👉  Get **30% off** any projects for first-time purchases only.
+Projects Section: 
+🌟 Projects Available
+💡 ChatGPT Clone: 👉 Get the Code https://www.the-aideveloper.com/products/ez94_t
+💡 Gemini Clone: 👉 Get the Code https://www.the-aideveloper.com/products/ABktLQ
+💡 NodeAPI: 👉 Get the Code https://www.the-aideveloper.com/products/dMVTnM
+💡 Voice AI: 👉 Get the Code https://www.the-aideveloper.com/products/G4rfGx
+💡 DocumentAI: 👉 Get the Code https://www.the-aideveloper.com/products/7HVdbq
+💡 FlowAI: 👉 Get the Code https://www.the-aideveloper.com/products/f6-3Am
+💡 VideoAI: 👉 Get the Code https://www.the-aideveloper.com/products/9jiaLF
+👉 Coregpt React + NodeJS https://checkout.the-aideveloper.com/b/14keVD7vgcDw4mc6pb
+👉 Coregp React + Python FastAPI https://checkout.the-aideveloper.com/b/dR614N8zkdHA8CseVI
 
 ---
 
